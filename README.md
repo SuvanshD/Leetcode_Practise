@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/2608-count-the-digits-that-divide-a-number) |
+## Array
+|  |
+| ------- |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 <!---LeetCode Topics End-->
