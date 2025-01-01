@@ -7,10 +7,10 @@ public:
         {
             int last_digit = n%10;
 
-            if (final > INT_MAX / 10 || (final == INT_MAX / 10 && last_digit > 7)) {
+            if (final > INT_MAX / 10 ) {
                 return 0;
             }
-            if (final < INT_MIN / 10 || (final == INT_MIN / 10 && last_digit < -8)) {
+            if (final < INT_MIN / 10 ) {
                 return 0;
             }
 
