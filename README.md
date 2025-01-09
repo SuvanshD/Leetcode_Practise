@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -28,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
