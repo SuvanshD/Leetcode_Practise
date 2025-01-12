@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1319-unique-number-of-occurrences) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1013-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [1319-unique-number-of-occurrences](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
