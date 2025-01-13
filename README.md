@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1319-unique-number-of-occurrences) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/SuvanshD/Leetcode_Practise/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Number Theory
 |  |
 | ------- |
@@ -46,4 +47,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1319-unique-number-of-occurrences) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/SuvanshD/Leetcode_Practise/tree/master/3242-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/SuvanshD/Leetcode_Practise/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
