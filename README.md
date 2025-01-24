@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0455-assign-cookies) |
 | [1319-unique-number-of-occurrences](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1319-unique-number-of-occurrences) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0455-assign-cookies) |
 ## String
 |  |
