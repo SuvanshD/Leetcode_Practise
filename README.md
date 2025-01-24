@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0455-assign-cookies) |
 | [1319-unique-number-of-occurrences](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1319-unique-number-of-occurrences) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0455-assign-cookies) |
 ## String
 |  |
