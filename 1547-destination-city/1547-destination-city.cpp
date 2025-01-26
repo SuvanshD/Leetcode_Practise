@@ -36,7 +36,7 @@ public:
         //     }
         // }
 
-        unordered_set<string> start_city;
+        set<string> start_city;
         for(auto it:paths)
         {
             start_city.insert(it[0]);
