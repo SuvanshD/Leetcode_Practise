@@ -19,7 +19,7 @@ public:
         //     }
         // }
 
-        set<string> start_city;
+        unordered_set<string> start_city;
         //set<string> final_city;
 
         for(auto it:paths)
