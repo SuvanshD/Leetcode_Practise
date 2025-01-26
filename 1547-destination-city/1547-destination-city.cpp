@@ -50,6 +50,6 @@ public:
             }
         }
 
-        return paths[1][-1];
+        return "";
     }
 };
