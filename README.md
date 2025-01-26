@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0455-assign-cookies) |
 | [1319-unique-number-of-occurrences](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1319-unique-number-of-occurrences) |
+| [1547-destination-city](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1547-destination-city) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SuvanshD/Leetcode_Practise/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0125-valid-palindrome) |
+| [1547-destination-city](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1547-destination-city) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1319-unique-number-of-occurrences) |
+| [1547-destination-city](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1547-destination-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SuvanshD/Leetcode_Practise/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
