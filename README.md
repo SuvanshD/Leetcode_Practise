@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0455-assign-cookies) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0041-first-missing-positive) |
 | [1319-unique-number-of-occurrences](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1319-unique-number-of-occurrences) |
 | [1547-destination-city](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1547-destination-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SuvanshD/Leetcode_Practise/tree/master/3242-count-elements-with-maximum-frequency) |
