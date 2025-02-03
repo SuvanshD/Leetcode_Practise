@@ -2,24 +2,26 @@ class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) 
     {
-        sort(nums.begin(),nums.end());
+        int n= nums.size();
 
-        int n=1;
+        vector <bool> check(n,false);
 
-        for(auto it:nums)
+        for(int i=0;i<n;i++)
         {
-            if(it==n)
+            if(nums[i]>0 && nums[i]<=n)
             {
-                n++;
-            }
-            else if(it>n)
-            {
-                break;
+                check[nums[i]-1]=true;
             }
         }
 
-        return n;
+        for(int i=1;i<=n;i++)
+        {
+            if(check[i-1]==false)
+            {
+                return i;
+            }
+        }
     
-        
+        return n+1;
     }
 };
