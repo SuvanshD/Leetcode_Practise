@@ -1,21 +1,19 @@
 class Solution {
 public:
-    int missingNumber(vector<int>& nums) {
-        int n = nums.size();
-        vector <bool> check (n+1,false);
+    int missingNumber(vector<int>& nums) 
+    {
+        int n=nums.size();
 
-        for(int i=0;i<n;i++)
+        int exp = (n*(n+1))/2;
+        int given = 0;
+
+        for(auto it:nums)
         {
-            check[nums[i]]=true;
+            given+=it;
         }
 
-        for(int i=0;i<n+1;i++)
-        {
-            if(!check[i]) return i;
-        }
+        return exp-given;
 
-        return n;
 
-        
     }
 };
