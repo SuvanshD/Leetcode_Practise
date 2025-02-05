@@ -4,15 +4,16 @@ public:
     {
         int n=nums.size();
 
-        int exp = (n*(n+1))/2;
-        int given = 0;
+        int xor1=0, xor2=0;
 
-        for(auto it:nums)
+        for(int i=0;i<n;i++)
         {
-            given+=it;
+            xor1= xor1^(i+1);
+            xor2=xor2^nums[i];
         }
+        //xor1=xor1^(n+1);
 
-        return exp-given;
+        return xor1^xor2;
 
 
     }
