@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0189-rotate-array) |
@@ -81,9 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
