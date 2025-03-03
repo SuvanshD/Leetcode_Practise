@@ -10,8 +10,9 @@ public:
             {
                 if(nums[i]+nums[j]==target)
                 {
-                    final.push_back(i);
-                    final.push_back(j);
+                    // final.push_back(i);
+                    // final.push_back(j);
+                    return {i,j};
                 }
             }
         }
