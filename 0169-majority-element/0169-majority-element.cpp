@@ -2,7 +2,7 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) 
     {
-        map <int,int> mpp;
+        unordered_map <int,int> mpp;
 
         int half = (nums.size()-1)/2;
 
