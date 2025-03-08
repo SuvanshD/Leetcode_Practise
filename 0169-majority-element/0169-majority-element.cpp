@@ -9,15 +9,19 @@ public:
         for(int i=0;i<nums.size();i++)
         {
             mpp[nums[i]]++;
-        }
-
-        for(const auto& pair:mpp)
-        {
-            if(pair.second > half)
+            if(mpp[nums[i]]>half)
             {
-                return pair.first;
+                return nums[i];
             }
         }
+
+        // for(const auto& pair:mpp)
+        // {
+        //     if(pair.second > half)
+        //     {
+        //         return pair.first;
+        //     }
+        // }
     return 0;
     }
 };
