@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1547-destination-city) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SuvanshD/Leetcode_Practise/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SuvanshD/Leetcode_Practise/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Number Theory
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0455-assign-cookies) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SuvanshD/Leetcode_Practise/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SuvanshD/Leetcode_Practise/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
