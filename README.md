@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0455-assign-cookies) |
+| [0792-binary-search](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1319-unique-number-of-occurrences) |
 | [1547-destination-city](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1547-destination-city) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/SuvanshD/Leetcode_Practise/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/SuvanshD/Leetcode_Practise/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
